@@ -1,4 +1,4 @@
-# ![Udacity](logo.png) Lane-Finding Demo
+# ![Udacity](udacity.png) Lane-Finding Demo
 ## Udacity Self-Driving Car Engineer Nanodegree Program
 ![Lane lines](road.jpg)
 
